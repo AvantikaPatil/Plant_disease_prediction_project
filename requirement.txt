@@ -1,6 +1,7 @@
-python3.9 -m pip install tensorflow
-
+pip==24.1.2
 streamlit==1.36.0
-tensorflow==2.7.0
-pandas
+pandas 
 numpy
+tensorflow==2.16.1
+
+seaborn
